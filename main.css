@@ -1,0 +1,23 @@
+@media screen and (max-width: 480px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+body {
+  background-image: url(./img/giphy.gif);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 90%;
+  margin: 0 auto;
+  text-align: center;
+  overflow-x: hidden;
+  background-color: black;
+
+}
